@@ -1,19 +1,48 @@
 /*Tag selectors*/
 
-p {
-    font-size: 15px;
+body {
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
 }
+
+h1 {
+    font-size: 25px;
+    margin: 15px 20px;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    font-size: 16px;
+    padding: 2px 20px 35px;
+    margin: 25px;
+    color :hsl(220, 15%, 55%) ;
+}
+
 
 /*Class Selectors*/
 
 .content {
-    
-    text-align: center;
-    
+    background-color: hsl(0, 0%, 100%);
+    width: 350px;
+    margin: 5% auto;
     font-family: 'Outfit', sans-serif;
+    border-radius: 15px;
+}
+
+.image-container {
+    padding: 15px;
+}
+
+
+.image-qr-code {
+    width: 320px;
+    margin: 0 auto;
+    border-radius: 15px;
 }
 
 .attribution {
+    
+    bottom: 20px;
     font-size: 11px;
     text-align: center;
 }
