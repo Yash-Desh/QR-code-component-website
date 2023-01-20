@@ -3,6 +3,7 @@
 body {
     background-color: hsl(212, 45%, 89%);
     text-align: center;
+    
 }
 
 h1 {
@@ -27,6 +28,7 @@ p {
     margin: 5% auto;
     font-family: 'Outfit', sans-serif;
     border-radius: 15px;
+    
 }
 
 .image-container {
@@ -40,9 +42,9 @@ p {
     border-radius: 15px;
 }
 
+
+
 .attribution {
-    
-    bottom: 20px;
     font-size: 11px;
     text-align: center;
 }
